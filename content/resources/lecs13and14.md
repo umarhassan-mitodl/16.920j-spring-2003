@@ -5,6 +5,8 @@ description: 'Finite Element Methods for Elliptic Problems. Variational Formulat
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/381648dacaa520039b062edd073cef8d_lecs13and14.pdf
 file_size: 603875
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

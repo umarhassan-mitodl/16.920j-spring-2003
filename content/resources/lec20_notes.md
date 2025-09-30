@@ -5,6 +5,8 @@ description: 'Integral Equation Methods, Lecture 1: Discretization of Boundary I
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/902283b7f9a1816017d8121272d8ff96_lec20_notes.pdf
 file_size: 601645
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

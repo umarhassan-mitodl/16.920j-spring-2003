@@ -4,6 +4,8 @@ description: 'Hyperbolic Equations: Scalar One-Dimensional Conservation Laws'
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/703d30b65026ca77d1a924b973c877fe_lec11.pdf
 file_size: 965064
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

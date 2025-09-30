@@ -6,6 +6,8 @@ description: 'FEM for the Poisson Problem in IR2
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/f33671df8e82180c17bb73e5f46adf11_lecs18_19_notes.pdf
 file_size: 1653867
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

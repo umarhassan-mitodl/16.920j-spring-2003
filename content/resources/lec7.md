@@ -4,6 +4,8 @@ description: 'Iterative Methods: Multigrid Techniques'
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/5b3591ef23cf6d08d14e678d0336a0cc_lec7.pdf
 file_size: 668026
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

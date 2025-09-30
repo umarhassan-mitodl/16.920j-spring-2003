@@ -5,6 +5,8 @@ description: 'Integral Equation Methods, Lecture 5: First and Second Kind Potent
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/c975b474422683ae4986a8c08aa52e93_lec25.pdf
 file_size: 828609
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
