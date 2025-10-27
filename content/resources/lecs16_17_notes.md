@@ -6,8 +6,6 @@ description: 'Discretization of the Poisson Problem in IR1: Theory and Implement
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/7b88973f2138d55fafd8396e63a8051e_lecs16_17_notes.pdf
 file_size: 2604772
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

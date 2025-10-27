@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Lecture Slides and Lecture Notes
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

@@ -4,8 +4,6 @@ description: 'Solution Methods: Iterative Techniques'
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/d504d7f1f3010fba86e134b3b900d0f6_lec6.pdf
 file_size: 670496
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: 'Finite Differences: Parabolic Problems'
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/6f02243dbad2edddbca94cbe8bdce5f1_lec5_notes.pdf
 file_size: 235160
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

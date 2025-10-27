@@ -4,8 +4,6 @@ description: 'Integral Equation Methods, Lecture 6: Discretization and Quadratur
 file: /courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/51b04d4860df27eecbf86dd9d223a4bb_lec26.pdf
 file_size: 405543
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
