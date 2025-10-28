@@ -8,7 +8,7 @@ title: Lecture Notes
 uid: 6c55b7dd-f774-4ba4-ed0b-11d5bccf1779
 ---
 
-Lecture notes were made available before each class session. Lecture slides were presented during the session. The class was taught concurrently to audiences at both MIT and the National University of Singapore, using audio and video links between the two classrooms, as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/).
+Lecture notes were made available before each class session. Lecture slides were presented during the session. The class was taught concurrently to audiences at both MIT and the National University of Singapore, using audio and video links between the two classrooms, as part of the {{% resource_link "4a3bd510-7226-41c9-8c32-0eb6e2856856" "Singapore-MIT Alliance" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

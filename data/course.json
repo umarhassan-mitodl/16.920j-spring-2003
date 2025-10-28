@@ -29,7 +29,7 @@
     "website": "16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003"
   },
   "course_title": "Numerical Methods for Partial Differential Equations (SMA 5212)",
-  "course_description": "A presentation of the fundamentals of modern numerical techniques for a wide range of linear and nonlinear elliptic, parabolic and hyperbolic partial differential equations and integral equations central to a wide variety of applications in science, engineering, and other fields. Topics include: Mathematical Formulations; Finite Difference and Finite Volume Discretizations; Finite Element Discretizations; Boundary Element Discretizations; Direct and Iterative Solution Methods.\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5212 (Numerical Methods for Partial Differential Equations).\n",
+  "course_description": "A presentation of the fundamentals of modern numerical techniques for a wide range of linear and nonlinear elliptic, parabolic and hyperbolic partial differential equations and integral equations central to a wide variety of applications in science, engineering, and other fields. Topics include: Mathematical Formulations; Finite Difference and Finite Volume Discretizations; Finite Element Discretizations; Boundary Element Discretizations; Direct and Iterative Solution Methods.\n\nThis course was also taught as part of the {{% resource_link \"4a3bd510-7226-41c9-8c32-0eb6e2856856\" \"Singapore-MIT Alliance\" %}} (SMA) programme as course number SMA 5212 (Numerical Methods for Partial Differential Equations).\n",
   "department_numbers": [
     "16",
     "2",
